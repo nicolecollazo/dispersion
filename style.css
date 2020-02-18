@@ -1,0 +1,52 @@
+body {
+  font-family: 'Francois One', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 40pt;
+}
+
+h2 {
+  font-size: 30pt;
+}
+
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: justify;
+  font-size: 20pt;
+  font-style: italic;
+
+}
+
+h6 {
+font-size: 10pt;
+
+}
+
+p {
+  font-size: 12pt;
+}
+
+a{
+  font-size: 15pt;
+}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
